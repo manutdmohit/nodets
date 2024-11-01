@@ -11,5 +11,11 @@
       "src": "/(.*)",
       "dest": "/src/index.ts"
     }
-  ]
+  ],
+  "projectSettings": {
+    "buildCommand": "npm run build",
+    "devCommand": "npm run start",
+    "framework": null,
+    "outputDirectory": "dist"
+  }
 }
